@@ -1,8 +1,8 @@
 ## Hey, I'm Bartek 👋
 
-🎓 Computer Science in Engineering student at AGH University of Science and Technology in Kraków.
-🏆 BITEhack 2026 hackathon winner. Kosciuszkon 2025 hackathon participant.
-🔍 Currently looking for a **Software Engineering internship** in Kraków.
+🎓 Computer Science in Engineering student at AGH University of Science and Technology in Kraków.  
+🏆 BITEhack 2026 hackathon winner. Kosciuszkon 2025 hackathon participant.  
+🔍 Currently looking for a **Software Engineering internship** in Kraków.  
 
 I like building backend systems, REST APIs, and solving real-world problems with code.
 
@@ -17,9 +17,9 @@ I like building backend systems, REST APIs, and solving real-world problems with
 
 ### 🛠️ What I work with
 
-**Languages:** Python · Go · Java · C++ · Dart · SQL
+**Languages:** Python · Java · C++ · Dart · SQL
 
-**Backend & APIs:** FastAPI · Spring Boot · Gin · REST · PostgreSQL · Firebase
+**Backend & APIs:** FastAPI · Spring Boot · REST · PostgreSQL
 
 **Tools:** Docker · Docker Compose · Git · nginx · Flutter
 
