@@ -8,7 +8,7 @@ I like building backend systems, REST APIs, and solving real-world problems with
 
 ---
 
-- 🔭 I'm currently working on [stock-market-simulation](https://github.com/bpietrzakk/stock-market-simulation) (Java/Spring Boot) and [CalorieEngine](https://github.com/bpietrzakk/CalorieEngine) (calorie tracking & weight progress app)
+- 🔭 I'm currently working on [stock-market-simulation](https://github.com/bpietrzakk/stock-market-simulation) (Java/Spring Boot)
 - 🌱 I'm currently learning **Python (FastAPI)** and **Java**
 - ⚡ Interests beyond code: gym & bodybuilding, running, mountain hiking, football, history, self-development & business
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-pietrzak/)
@@ -32,6 +32,5 @@ I like building backend systems, REST APIs, and solving real-world problems with
 | 🏦 [swift_codes](https://github.com/bpietrzakk/swift_codes) | Go, PostgreSQL, Docker | REST API for searching bank SWIFT/BIC codes with integration tests |
 | 📈 [stock-market-simulation](https://github.com/bpietrzakk/stock-market-simulation) | Java 21, Spring Boot, PostgreSQL, nginx | Stock market simulator with HA architecture behind a load balancer |
 | ☀️ [SUNSEER](https://github.com/Jabrocki/piecyk) | Dart, Flutter, Firebase | Solar panel energy & savings estimator — Kosciuszkon 2025 hackathon (team project) |
-| 🔥 [CalorieEngine](https://github.com/bpietrzakk/CalorieEngine) | Python, FastAPI, PostgreSQL | Calorie tracking app with weight progress monitoring (WIP) |
 | 🥙 [KrakowskieKebaby](https://github.com/prbartosh/KrakowskieKebaby) | Python, FastAPI, React, PostgreSQL | Full-stack app for rating and ranking Kraków's kebab places (team project) |
 | 💀 [project_pandemonium](https://github.com/Rid1cc/project_pandemonium) | C++ | Terminal-based hacking simulator game (team project) |
