@@ -15,16 +15,6 @@ I like building backend systems, REST APIs, and solving real-world problems with
 
 ---
 
-### 🛠️ What I work with
-
-**Languages:** Python · Java · C++ · Dart · SQL
-
-**Backend & APIs:** FastAPI · Spring Boot · REST · PostgreSQL
-
-**Tools:** Docker · Docker Compose · Git · nginx · Flutter
-
----
-
 ### 📌 Selected projects
 
 | Project | Stack | What it does |
