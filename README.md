@@ -8,7 +8,7 @@ I like building backend systems, REST APIs, and solving real-world problems with
 
 ---
 
-- 🔭 I'm currently working on [stock-market-simulation](https://github.com/bpietrzakk/stock-market-simulation) (Java/Spring Boot)
+- 🔭 I'm currently working on private project
 - 🌱 I'm currently learning **Python (FastAPI)** and **Java**
 - ⚡ Interests beyond code: gym & bodybuilding, running, mountain hiking, football, history, self-development & business
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-pietrzak/)
