@@ -1,7 +1,7 @@
 ## Hey, I'm Bartek 👋
 
 🎓 Computer Science in Engineering student at AGH University of Science and Technology in Kraków.  
-🏆 BITEhack 2026 hackathon winner. Kosciuszkon 2025 hackathon participant.  
+🏆 BITEhack 2026 hackathon winner.
 🔍 Currently looking for a **Software Engineering internship** in Kraków.  
 
 I like building backend systems, REST APIs, and solving real-world problems with code.
