@@ -1,15 +1,15 @@
 ## Hey, I'm Bartek 👋
 
-🎓 Computer Science in Engineering student at AGH University of Science and Technology in Kraków.  
-🏆 BITEhack 2026 hackathon winner.
-🔍 Currently looking for a **Software Engineering internship** in Kraków.  
+🎓 Computer Science student at AGH University of Science and Technology in Kraków.  
+🏆 BITEhack 2026 hackathon winner.  
+💼 Intern Software Developer at **Motorola Solutions** (Linux Platform).  
 
 I like building backend systems, REST APIs, and solving real-world problems with code.
 
 ---
 
-- 🔭 I'm currently working on private project
-- 🌱 I'm currently learning **Python (FastAPI)** and **Java**
+- 🔭 I'm currently working on Linux automation & backend projects
+- 🌱 Tech toolkit: **Python, Bash, Red Hat Linux, Virtualization, Jenkins, Java, Go**
 - ⚡ Interests beyond code: gym & bodybuilding, running, mountain hiking, football, history, self-development & business
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-pietrzak/)
 
