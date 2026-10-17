@@ -2,6 +2,7 @@
 
 🎓 Computer Science student at AGH University of Science and Technology in Kraków.  
 🏆 1st place @ BITEhack 2026 | 🥈 2nd place @ HackYeah 2026.
+
 💼 Intern Software Developer at **Motorola Solutions** (Linux Platform).  
 
 Experimenting across Linux systems and AI agent workflows to turn emerging tech into viable products. Thinking product-first, not just syntax.
